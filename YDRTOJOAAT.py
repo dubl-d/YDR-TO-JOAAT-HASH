@@ -2,8 +2,6 @@
 ##BY ICMP & JZERSCHE##
 ##JUST DROP YOUR YDR INTO A FOLDER##
 ##CHANGE THE folder_path BELOW##
-##WE MADE THIS FOR LIBERTY CITY##
-##FUCK LOS SANTOS##
 
 import os
 import time
